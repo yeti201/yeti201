@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Yatharth Verma! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
-<h3 align="center"> A Passionate Software Engineer Based In India 👨‍💻 </h3>
+<h1>Hi, I'm Yatharth Verma! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
+<h3 > A Passionate Software Engineer Based In India 👨‍💻 </h3>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p align="left">
+<p>
 -   💻 I’m a full stack web developer specializing in MERN stack. <br/>
 -   🌱 I love to code, build things & solve problems. <br/>
 -   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
@@ -17,9 +17,9 @@
 
 
 
-  <h3 align="center">Want To Get In Touch or just read what about I am doing? Reach Out To Me On 👇:</h3>
+  <h3>Want To Get In Touch or just read what about I am doing? Reach Out To Me On 👇:</h3>
   
-  <p align="center">
+ <p>
     <a href="mailto:yatharth17may@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://in.linkedin.com/in/yeti201"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/htrahtay"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -28,7 +28,7 @@
 
 
 
-<p align="center">
+<p>
   Show ❤️ by starring repositories you find useful.
   <br />
   Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them.
