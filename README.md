@@ -19,18 +19,14 @@
 
 
 
-
-
----
-
-
-
   <h3 align="center">Want To Get In Touch? Reach Out To Me On 👇:</h3>
 
   <p align="center">
     <a href="mailto:yatharth17may@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://in.linkedin.com/in/yeti201"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/htrahtay"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="https://medium.com/@yatharth17may"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+    
 
 </p>
 <p align="center">
@@ -40,4 +36,4 @@
   <br/>
   <br/>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=srikanta30&label=Profile%20views&color=0e75b6&style=flat" alt="srikanta30" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeti201-github-username&color=8e8cd8" alt="yeti201" /> </p>
