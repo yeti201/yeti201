@@ -1,8 +1,6 @@
 <h1>Hi, I'm Yatharth Verma! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
-<h3> A Passionate Software Engineer Based In India 👨‍💻 </h3>
-<p>
-I come from a computer guy thourgh and throught, this world always made me curious to learn the how and why? So I decided to be a developer. When I am not coding or solving problems I dable in Formula 1 & Football. I'm also a self proclaimed pro-chef.
-</p>
+<h4> A Passionate Software Engineer Based In India I come from a computer guy thourgh and throught, this world always made me curious to learn the how and why? So I decided to be a developer. When I am not coding or solving problems I dable in Formula 1 & Football. I'm also a self proclaimed pro-chef.💻 </h4>
+
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p>
@@ -12,6 +10,9 @@ I come from a computer guy thourgh and throught, this world always made me curio
 -   ⚡ For fun, I like Watch & Review Films, I also follow Football and Formula 1. <br/>
 -   🗺️ Want to know more? Check out my portfolio <a href=""> here 🔗</a>. <br/>
 </p>
+
+
+
 
 ---
 <h3>My Tools & Tech Stack 🛠️:</h3>
