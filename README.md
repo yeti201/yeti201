@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yatharth Verma! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
 <h3 align="center"> A Passionate Software Engineer Based In India 👨‍💻 </h3>
 
-
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p align="left">
 -   💻 I’m a full stack web developer specializing in MERN stack. <br/>
 -   🌱 I love to code, build things & solve problems. <br/>
