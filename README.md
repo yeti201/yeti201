@@ -1,18 +1,8 @@
 <h1>Hi, I'm Yatharth Verma! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
-<h4> A Passionate Software Engineer Based In India I come from a computer guy thourgh and throught, this world always made me curious to learn the how and why? So I decided to be a developer. When I am not coding or solving problems I dable in Formula 1 & Football. I'm also a self proclaimed pro-chef.💻 </h4>
+<h4> A Passionate Software Engineer Based In India. I'm a computer guy thourgh and through, this world always made me curious to learn the hows and whys? So I decided to be a developer. Currently looking for oppurtunities to work as a MERN stack dev. When I am not coding or solving problems I dable in the world Formula 1 & Football. I'm also a self proclaimed pro-chef & an amateur movie critic. </h4>
 
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p>
--   💻 I’m a full stack web developer specializing in MERN stack. <br/>
--   🌱 I love to code, build things & solve problems. <br/>
--   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
--   ⚡ For fun, I like Watch & Review Films, I also follow Football and Formula 1. <br/>
--   🗺️ Want to know more? Check out my portfolio <a href=""> here 🔗</a>. <br/>
-</p>
-
-
-
 
 ---
 <h3>My Tools & Tech Stack 🛠️:</h3>
