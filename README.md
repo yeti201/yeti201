@@ -2,7 +2,7 @@
 <h3 align="center"> A Passionate Software Engineer Based In India 👨‍💻 </h3>
 
 
-<p align="center">
+<p align="left">
 -   💻 I’m a full stack web developer specializing in MERN stack. <br/>
 -   🌱 I love to code, build things & solve problems. <br/>
 -   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
