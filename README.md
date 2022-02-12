@@ -2,7 +2,7 @@
 <h4> A Passionate Software Engineer Based In India. I'm a computer guy thourgh and through, this world always made me curious to learn the hows and whys? So I decided to be a developer. Currently looking for oppurtunities to work as a MERN stack dev. When I am not coding or solving problems I dable in the world Formula 1 & Football. I'm also a self proclaimed pro-chef & an amateur movie critic. </h4>
 
 
-<img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img margin-left='25%' align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 <h3>My Tools & Tech Stack 🛠️:</h3>
