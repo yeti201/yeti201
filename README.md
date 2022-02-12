@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yatharth Verma! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
-<h4 align="center"> A Passionate Software Engineer Based In India. I'm a computer guy thourgh and through, this world always made me curious to learn the hows and whys? So I decided to be a developer. Currently looking for oppurtunities to work as a MERN stack dev..</h4>
+<h3 align="center"> A Passionate Software Engineer Based In India. I'm a computer guy thourgh and through, this world always made me curious to learn the hows and whys? So I decided to be a developer. Currently looking for oppurtunities to work as a MERN stack dev..</h3>
 
 
 <p align="center">
