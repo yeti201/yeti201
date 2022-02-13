@@ -39,6 +39,6 @@
 
 <p align="center"><img width="50%" border="1" margin-bottom= "30" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeti201&show_icons=true&locale=en&layout=compact" alt="yeti201" /></p> <br> <br><br><br><br><br><br>
 
-<p align="center">&nbsp;<img width="50%"  margin-top="30" align="left" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&show_icons=true&locale=en" alt="yeti201" /></p> <br> 
+<p align="center">&nbsp;<img width="50%"  margin-top="30" align="left" src="https://github-readme-stats.vercel.app/api?username=yeti201&show_icons=true&locale=en" alt="yeti201" /></p> <br> 
 
 <p align="center"><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yeti201&" alt="yeti201" /></p>
