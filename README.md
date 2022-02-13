@@ -8,7 +8,7 @@
    🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
    ⚡ For fun, I like Watch & Review Films, I also follow Football and Formula 1. <br/>
   :fried_egg: Self Proclaimed Pro-Chef. <br/>
-  🗺️ Want to know more? Check out my portfolio <a href="yatharthverma.netlify.app"> here 🔗</a>. <br/>
+  🗺️ Want to know more? Check out my portfolio <a href="https://yatharthverma.netlify.app/"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
